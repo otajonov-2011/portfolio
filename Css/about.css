@@ -1,0 +1,55 @@
+.headerrr{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.pop img{
+    margin-left: 30px;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+}
+
+
+.bosh{
+    height: 3px;
+    width: 50px;
+    background-color: blue;
+}
+
+.otadiv{
+    display: inline-block;
+   display: flex;
+}
+.amet{
+    display:inline-block;
+  margin-left: 5px;
+
+}
+.ulli{
+    display: inline-block;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    margin-right: 100px;
+    margin-left: 20px;
+
+}
+.ulli ul{
+    margin-top: 5px;
+    line-height: 2;
+    font-size: 20px;
+}
+.mulla{
+   
+    display: flex;
+    margin-bottom: 300px;
+}
+.icons21{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    margin-bottom: 400px;
+}
+.link11 i{
+color: blue;
+}
